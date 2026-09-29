@@ -1,0 +1,4 @@
+PS C:\Users\HP\OneDrive\Desktop\simple_calculator> curl.exe -L https://api.github.com/repos/namratavpatil0712-cyber/simple_calculator/pulls/1
+{
+...
+}
